@@ -1,0 +1,7 @@
+{
+  "name": "Slate",
+  "description": "Beautiful static documentation for your API",
+  "repository": "https://github.com/marketing-ezi/slate.git",
+  "keywords": ["slate", "ruby", "api"],
+  "website": "https://github.com/marketing-ezi/slate"
+}
